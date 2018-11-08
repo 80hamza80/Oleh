@@ -22,9 +22,9 @@ $array=array(
     'index.php' sarà la destinazione del link che verrà generato con la funzione buildmenu
     ed apparirà quindi nella proprietà href del link 
     */
-    'Home'=>'/php/corso/index.php',
-    'il mio blog'=>'/php/corso/blog.php',
-    'Login'=>'/php/corso/login.php'
+    'Home'=>'/oleh/index.php',
+    'il mio blog'=>'/oleh/blog.php',
+    'Login'=>'/oleh/login.php'
     );
     /*
     
